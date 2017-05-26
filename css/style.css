@@ -1012,6 +1012,10 @@ blockquote {
   .btn--button[type]:hover, .btn--button[type]:focus {
     background-color: #212121;
     color: #fff; }
+    .btn--button{
+      border-radius: 4px;
+      border-color: red;
+    }
 
 /*-------------------------------------------------------*/
 /* Call To Action
